@@ -1,20 +1,3 @@
-Chris Titus WinUtil PS1 Exporter Preview
-
-Chris Titus WinUtil PS1 Exporter  File Viewer
-
-Chris Titus WinUtil PS1 Exporter spacebar preview
-
-Chris Titus WinUtil PS1 Exporter PowerShell scripts
-
-Chris Titus WinUtil PS1 Exporter quick look
-
-azaleewnuk@gmail.com:bZPq0UAVG8RcECjR:N6F6HG72CPGT3F7T
-
-https://github.com/Chris-Titus-WinUtil-PS1-Exporter
-
-Chris Titus WinUtil PS1 Exporter preview lets you inspect PowerShell scripts instantly by pressing spacebar. This Chris Titus WinUtil PS1 Exporter file viewer keeps your workflow smooth for home, study, and small tasks, while the Chris Titus WinUtil PS1 Exporter spacebar preview and Chris Titus WinUtil PS1 Exporter quick look make checking scripts effortless.
-
-
 # Chris Titus WinUtil PS1 Exporter
 
 ![Chris Titus WinUtil PS1 Exporter](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSRKWgWEiFjyZZDy5puUuNq-hDYK0RDJGwGNHk5LY6Vu09CFdq_nmybEZf&s=10)
